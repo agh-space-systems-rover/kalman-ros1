@@ -1,0 +1,51 @@
+[submodule "src/big_autonomy_translator"]
+	path = src/big_autonomy_translator
+	url = git@github.com:agh-space-systems-rover/big_autonomy_translator.git
+[submodule "src/compressed_costmap_server"]
+	path = src/compressed_costmap_server
+	url = git@github.com:agh-space-systems-rover/compressed_costmap_server.git
+[submodule "src/fiducials"]
+	path = src/fiducials
+	url = git@github.com:agh-space-systems-rover/fiducials.git
+[submodule "src/framerate_changer"]
+	path = src/framerate_changer
+	url = git@github.com:agh-space-systems-rover/framerate_changer.git
+[submodule "src/kalman_arm"]
+	path = src/kalman_arm
+	url = git@github.com:agh-space-systems-rover/kalman_arm.git
+[submodule "src/kalman_groundstation"]
+	path = src/kalman_groundstation
+	url = git@github.com:agh-space-systems-rover/kalman_groundstation.git
+[submodule "src/kalman_launch"]
+	path = src/kalman_launch
+	url = git@github.com:agh-space-systems-rover/kalman_launch.git
+[submodule "src/kalman_old_arm"]
+	path = src/kalman_old_arm
+	url = git@github.com:agh-space-systems-rover/kalman_old_arm.git
+[submodule "src/kalman_rover_core"]
+	path = src/kalman_rover_core
+	url = git@github.com:agh-space-systems-rover/kalman_rover_core.git
+[submodule "src/kalman_rover_uart"]
+	path = src/kalman_rover_uart
+	url = git@github.com:agh-space-systems-rover/kalman_rover_uart.git
+[submodule "src/kalman_sensors_workspace"]
+	path = src/kalman_sensors_workspace
+	url = git@github.com:agh-space-systems-rover/kalman_sensors_workspace.git
+[submodule "src/kalman_usb_cam"]
+	path = src/kalman_usb_cam
+	url = git@github.com:agh-space-systems-rover/kalman_usb_cam.git
+[submodule "src/markers_spawner"]
+	path = src/markers_spawner
+	url = git@github.com:agh-space-systems-rover/markers_spawner.git
+[submodule "src/shell_over_rf"]
+	path = src/shell_over_rf
+	url = git@github.com:agh-space-systems-rover/shell_over_rf.git
+[submodule "src/supervisor"]
+	path = src/supervisor
+	url = git@github.com:agh-space-systems-rover/supervisor.git
+[submodule "src/ueuos"]
+	path = src/ueuos
+	url = git@github.com:agh-space-systems-rover/ueuos.git
+[submodule "src/united_supervising_protocol"]
+	path = src/united_supervising_protocol
+	url = git@github.com:agh-space-systems-rover/united_supervising_protocol.git

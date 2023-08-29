@@ -1,0 +1,6 @@
+/.catkin_tools
+/.distrobox
+/.vscode
+/build
+/devel
+/logs
